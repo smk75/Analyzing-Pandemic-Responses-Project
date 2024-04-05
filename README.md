@@ -27,6 +27,6 @@ Open the `The Effectiveness of COVID-19 Vaccination in Pakistan.ipynb` in Jupyte
 Contributions to this project are welcome. Please send your contributions as pull requests on GitHub.
 
 ## Acknowledgments
-- Thank you to all the contributors who have helped with the research and analysis.
+Thank you to the CIC Student Working Group who introduced the project and helped with the research and analysis.
 
 
